@@ -4,12 +4,12 @@
 - ♂️ Name: Sky (or amine)
 - 📏 Age: 17
 - 🌍 Residence: Morocco
-- 💼 Company: webwise
+- 💼 Company: none (yet)
 # 💻 languages
 - 🟩 NodeJS
 - 🟦 Typescript
 - 🔷 C/C++
-- 🔢 16 bit Assembly
+- 🔢 64 bit Assembly
 - 🧵 SQL and more!
 # 🔥 Shoutout
 - 🌮 [TacoDark](https://github.com/TacoDark)
