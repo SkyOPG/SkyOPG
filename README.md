@@ -4,15 +4,15 @@
 - ♂️ Name: Sky (or amine)
 - 📏 Age: 17
 - 🌍 Residence: Morocco
-- 💼 Company: none (yet)
+- 💼 Company: Sapphire Media Group
+# Projects
+- InstantOS
 # 💻 languages
 - 🟩 NodeJS
 - 🟦 Typescript
 - 🔷 C/C++
 - 🔢 64 bit Assembly
 - 🧵 SQL and more!
-# 🔥 Shoutout
-- 🌮 [TacoDark](https://github.com/TacoDark)
 # 📈 Stats
 ![](https://github-readme-stats.vercel.app/api?username=puffythedev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=puffythedev&theme=dark&hide_border=false)
